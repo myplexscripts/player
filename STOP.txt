@@ -1,0 +1,1 @@
+To stop the prototype, close the black terminal window that opened with START.bat, or click the terminal and press Ctrl+C.
